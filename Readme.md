@@ -1,9 +1,9 @@
 
-<a href="https://komarev.com/ghpvc/?username=charitraa">
-  <img align="right" src="https://komarev.com/ghpvc/?username=charitraa&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=sauravniroula11">
+  <img align="right" src="https://komarev.com/ghpvc/?username=sauravniroula11&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
 </a
 
-  [![LeetCode user charitra](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcharitraa&logo=leetcode&logoColor=yellow)](https://leetcode.com/charitraa/)
+  [![LeetCode user charitra](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsauravniroula11&logo=leetcode&logoColor=yellow)](https://leetcode.com/sauravniroula11/)
 
 <p align="center"><a href="https://wakatime.com/@8b338e0c-5f4d-4b55-9596-6a45dec526a1"><img src="https://wakatime.com/badge/user/8b338e0c-5f4d-4b55-9596-6a45dec526a1.svg" alt="Total time coded since Aug 5 2023" /></a>
   </p>
@@ -22,19 +22,19 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/charitra-shrestha-78245b270/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="charitraa"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sauravniroula11"/>
  </a>
- <a href="https://dev.to/charitraa" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="charitraa" />
+ <a href="https://dev.to/sauravniroula11" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="sauravniroula11" />
  </a>
  <a href="https://twitter.com/ROYALXGAMER9" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/_charitraa_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="charitraa" />
+ <a href="https://www.instagram.com/_sauravniroula11_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sauravniroula11" />
  </a> 
  <a href="https://www.facebook.com/stharabi.charitra/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="charitraa"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sauravniroula11"  />
   </a> 
    <a href="https://www.youtube.com/@nooehack4073/" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"  />
@@ -62,7 +62,7 @@
 ⚡&emsp;Fun fact: I love Music, Sports especially football. <br/><br/>
 ❤️&emsp;Love to writing code and learning new skills. <br/><br/>
 📧&emsp;Reach me anytime: stharabi9862187405@gmail.com<br/><br/>
-💬&emsp;Ask me about anything [here](https://github.com/charitraa/charitraa/issues)
+💬&emsp;Ask me about anything [here](https://github.com/sauravniroula11/sauravniroula11/issues)
 
 </p>
 
@@ -102,13 +102,13 @@
 <br/>
 
 ## Top Open Source -
-[![Online Hotel Booking System ](https://github-readme-stats.vercel.app/api/pin/?username=charitraa&repo=Online-Hotel-Booking-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/charitraa/Online-Hotel-Booking-System)
-[![Amazon Project](https://github-readme-stats.vercel.app/api/pin/?username=charitraa&repo=Amazon-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/charitraa/Amazon-Project)
-[![Coffee Website](https://github-readme-stats.vercel.app/api/pin/?username=charitraa&repo=Coffee-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/charitraa/Coffee-Website)
-[![Artificial Intelligence Project](https://github-readme-stats.vercel.app/api/pin/?username=charitraa&repo=Artificial-Intelligence-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/charitraa/Artificial-Intelligence-Project)
+[![Online Hotel Booking System ](https://github-readme-stats.vercel.app/api/pin/?username=sauravniroula11&repo=Online-Hotel-Booking-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sauravniroula11/Online-Hotel-Booking-System)
+[![Amazon Project](https://github-readme-stats.vercel.app/api/pin/?username=sauravniroula11&repo=Amazon-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sauravniroula11/Amazon-Project)
+[![Coffee Website](https://github-readme-stats.vercel.app/api/pin/?username=sauravniroula11&repo=Coffee-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sauravniroula11/Coffee-Website)
+[![Artificial Intelligence Project](https://github-readme-stats.vercel.app/api/pin/?username=sauravniroula11&repo=Artificial-Intelligence-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sauravniroula11/Artificial-Intelligence-Project)
 
 <p align="left">
-  <a href="https://github.com/charitraa?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/sauravniroula11?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -116,26 +116,26 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/charitraa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charitraa&theme=radical&border=7F3FBF&background=0D1117" alt="charitra GitHub streak"/>
+  <a href="https://github.com/sauravniroula11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravniroula11&theme=radical&border=7F3FBF&background=0D1117" alt="charitra GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/charitraa">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charitraa&theme=radical" alt="charitra GitHub Contribution"/>
+  <a href="https://github.com/sauravniroula11">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravniroula11&theme=radical" alt="charitra GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/charitraa"><img alt="charitra Github Stats" src="https://github-readme-stats.vercel.app/api?username=charitraa&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/charitraa"><img alt="Charitra Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=charitraa&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/sauravniroula11"><img alt="charitra Github Stats" src="https://github-readme-stats.vercel.app/api?username=sauravniroula11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/sauravniroula11"><img alt="Charitra Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sauravniroula11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-[![charitraa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charitraa&theme=github-compact&customtitle=Day%20Graph%%20title&hide_border=true)](https://github.com/charitraa/github-readme-activity-graph)
+[![sauravniroula11's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sauravniroula11&theme=github-compact&customtitle=Day%20Graph%%20title&hide_border=true)](https://github.com/sauravniroula11/github-readme-activity-graph)
 
-![snake animation](https://github.com/charitraa/charitraa/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/sauravniroula11/sauravniroula11/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@stha_ravii/297abccd-48e2-4685-84a8-b3b6a9579b5f.png" /></a>
